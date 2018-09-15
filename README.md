@@ -6,4 +6,14 @@ Bus: can parks in bus parking lot only.
 
 The program is to ask user to input the Car/Motor/Bus in the textbox and the output should be showing the suitable parking lot.
 
+How to run this program?
+
+Go to the File name "AndrianAlexanderPutraCodingTest"
+Choose "Bin" folder name -> "Debug" folder name
+Run the program "AndrianAlexanderPutraCodingTest.exe"
+
+or
+
+Open Visual Studio (any version)
+Run the project (from the Start Button)
 
